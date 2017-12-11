@@ -1,0 +1,204 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1512951115,,"wq"
+:!wq
+|2,0,1512695693,,"!wq"
+:da
+|2,0,1512695535,,"da"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""1	LINE	0
+	alias subl='Desktop/Sublime\ Text\ Build\ 3114\ x64/subl.exe
+|3,1,1,1,1,0,1512696156,"alias subl='Desktop/Sublime\\ Text\\ Build\\ 3114\\ x64/subl.exe"
+"2	LINE	0
+	alias ll='ls -l
+|3,0,2,1,1,0,1512695360,"alias ll='ls -l"
+"3	LINE	0
+	alias lf='ls -F'
+|3,0,3,1,1,0,1512695298,"alias lf='ls -F'"
+"4	LINE	0
+	alias la='ls -a'
+|3,0,4,1,1,0,1512695297,"alias la='ls -a'"
+"5	LINE	0
+	alias ll='ls -l'
+|3,0,5,1,1,0,1512695295,"alias ll='ls -l'"
+"-	CHAR	0
+	'
+|3,0,36,0,1,0,1512695366,"'"
+
+# ファイルマーク:
+'0  5  0  ~/.bash_profile
+|4,48,5,0,1512951116,"~/.bash_profile"
+'1  5  0  ~/.bash_profile
+|4,49,5,0,1512696220,"~/.bash_profile"
+'2  4  0  ~/.bash_profile
+|4,50,4,0,1512696042,"~/.bash_profile"
+'3  5  0  ~/.bash_profile
+|4,51,5,0,1512696042,"~/.bash_profile"
+'4  4  0  ~/.bash_profile
+|4,52,4,0,1512696042,"~/.bash_profile"
+'5  5  0  ~/.bash_profile
+|4,53,5,0,1512696042,"~/.bash_profile"
+'6  4  60  ~/.bash_profile
+|4,54,4,60,1512695891,"~/.bash_profile"
+'7  4  0  ~/.bash_profile
+|4,55,4,0,1512695891,"~/.bash_profile"
+'8  4  60  ~/.bash_profile
+|4,56,4,60,1512695891,"~/.bash_profile"
+'9  5  0  ~/.bash_profile
+|4,57,5,0,1512695891,"~/.bash_profile"
+
+# ジャンプリスト (新しいものが先):
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512951116,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512696220,"~/.bash_profile"
+-'  4  0  ~/.bash_profile
+|4,39,4,0,1512696147,"~/.bash_profile"
+-'  4  0  ~/.bash_profile
+|4,39,4,0,1512696147,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512696042,"~/.bash_profile"
+-'  4  60  ~/.bash_profile
+|4,39,4,60,1512696027,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695891,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695891,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695869,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695869,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695707,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695707,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695584,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695561,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695561,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695561,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695561,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695481,"~/.bash_profile"
+-'  5  0  ~/.bash_profile
+|4,39,5,0,1512695481,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695348,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695348,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695348,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695348,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695316,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1512695316,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693525,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693415,"~/.bash_profile"
+-'  3  15  ~/.bash_profile
+|4,39,3,15,1512693415,"~/.bash_profile"
+-'  1  16  ~/.bash_profile
+|4,39,1,16,1512693300,"~/.bash_profile"
+-'  1  16  ~/.bash_profile
+|4,39,1,16,1512693300,"~/.bash_profile"
+-'  1  16  ~/.bash_profile
+|4,39,1,16,1512693300,"~/.bash_profile"
+-'  1  16  ~/.bash_profile
+|4,39,1,16,1512693300,"~/.bash_profile"
+-'  1  16  ~/.bash_profile
+|4,39,1,16,1512693258,"~/.bash_profile"
+-'  1  16  ~/.bash_profile
+|4,39,1,16,1512693258,"~/.bash_profile"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/.bash_profile
+	*	1512951104	0
+	"	5	0
+	^	5	0
+	.	4	61
+	+	1	16
+	+	1	0
+	+	3	0
+	+	3	16
+	+	4	61
